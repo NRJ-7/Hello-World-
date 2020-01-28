@@ -1,0 +1,88 @@
+/*Add your CSS below!*/
+h1 {
+    font-family:Cursive;
+    color:black;
+}
+
+li {
+    font-family:Verdana;
+}
+
+div {
+	display: inline-block;
+	margin-left: 5px;
+	height:100px;
+	width:100px;
+    border:2px solid black;
+    border-radius:100%;
+    text-align:center;
+    font-size:15px;
+    font-family:"Comic Sans MS";
+}
+
+.Bhai {
+    border:2px dashed #008000;
+    color:black;
+}
+
+.Bhai:hover {
+    background-color:#f08066;
+    border:2px solid #008000;
+    font-weight:bold;
+    color:#ffff66;
+}
+
+.friend {
+    
+    border:2px dashed #008000;
+    color:black;
+}
+.friend:hover {
+    background-color:#000066;
+    border:2px solid #008000;
+    font-weight:bold;
+    color:#ffff66;
+}
+
+.love {
+    border:2px dashed #008000;
+    color: black;
+}
+.love:hover {
+    background-color: #cc0000;
+    border:2px solid #008000;
+    font-weight: bolder;
+    color: #00ccff;
+}
+
+.family {
+    border:2px dashed #008fff;
+}
+.family:hover {
+    background-color:#c1c0cc;
+    border:2px solid #0000ff;
+    font-weight:bold;
+}
+
+.enemy {
+    border:2px dashed #ff0000;
+}
+.enemy:hover {
+    background-color:black;
+    color:white;
+    font-weight:bold;
+}
+
+.archnemesis {
+    border:4px solid #CC0000;
+}
+
+img {
+    display: inline-block;
+	margin-left: 5px;
+	height:60px;
+	width:60px;
+    border:2px solid black;
+    border-radius:100%;
+    text-align:center;
+}
